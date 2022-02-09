@@ -1,0 +1,9 @@
+server:
+  port: 6060
+
+---
+ spring:
+     devtools:
+       restart:
+         enabled : false
+
